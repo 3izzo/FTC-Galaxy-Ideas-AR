@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="twitter" size="1.000000 0.523333" />
+    <ImageTarget name="mazad" size="1.000000 0.235556" />
+    <ImageTarget name="target" size="1.000000 1.000000" />
+    <ImageTarget name="emptyHead" size="1.000000 1.000000" />
+    <ImageTarget name="FTC" size="1.000000 1.000000" />
+    <ImageTarget name="baderRec" size="1.000000 1.109005" />
+    <ImageTarget name="bulb-drawing-doodle-5" size="1.000000 1.415094" />
+    <ImageTarget name="exploration" size="1.000000 0.878289" />
+    <ImageTarget name="heyThere" size="1.000000 0.800000" />
+    <ImageTarget name="luanching" size="1.000000 0.622378" />
+    <ImageTarget name="softwareValleyIcon" size="1.000000 1.011539" />
+  </Tracking>
+</QCARConfig>
